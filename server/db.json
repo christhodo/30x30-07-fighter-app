@@ -1,0 +1,39 @@
+{
+  "fighters": [
+    {
+      "id": "1",
+      "name": "Kahbib",
+      "division": "Lightweight",
+      "wins": "29",
+      "losses": "0"
+    },
+    {
+      "id": "2",
+      "name": "Islam",
+      "division": "Lightweight",
+      "wins": "19",
+      "losses": "1"
+    },
+    {
+      "id": "3",
+      "name": "Khazmat",
+      "division": "middleweight",
+      "wins": "13",
+      "losses": "0"
+    },
+    {
+      "id": "lfhrKiD",
+      "name": "Dustin",
+      "division": "Welterweight",
+      "wins": "19",
+      "losses": "6"
+    },
+    {
+      "id": "4aEToVB",
+      "name": "Georges St Pierre",
+      "division": "Welterweight",
+      "wins": "26",
+      "losses": "1"
+    }
+  ]
+}
