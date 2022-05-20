@@ -33,10 +33,10 @@ export class FightersService {
   }
 
   private getUrl() {
-    return `${BASE_URL}${this.model}`;
+    return `${BASE_URL}/${this.model}`;
   }
 
   private getUrlWithID(id) {
-    return `${this.getUrl()}${id}`;
+    return `${this.getUrl()}/${id}`;
   }
 }

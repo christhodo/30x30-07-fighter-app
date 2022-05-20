@@ -22,7 +22,9 @@ export class FightersComponent implements OnInit {
 
   constructor(private fightersService: FightersService) {}
 
-  ngOnInit(): void {}
+  ngOnInit(): void {
+    this.fetchFighters();
+  }
 
   selectFighter(fighter) {
     this.selectedFighter = { ...fighter };
